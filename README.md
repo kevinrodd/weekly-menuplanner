@@ -14,7 +14,7 @@ This Node.js script allows you to search a folder for recipe files in various fo
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/YourUsername/RecipeManagement.git
+   git clone https://github.com/kevinrodd/weekly-menuplanner.git
 
 ## Usage
 2. **Run the Script:**
