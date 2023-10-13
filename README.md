@@ -1,3 +1,5 @@
+![](https://kevinrodd.github.io/image-holder/banner.png)
+
 # Weekly Recipe Menu Generator
 
 This Node.js script allows you to search a folder for recipe files in various formats by their titles and, based on selected categories, it creates a balanced weekly menu. It also copies these recipes to a dedicated folder.
